@@ -1,0 +1,76 @@
+header{
+    color: rgb(191, 164, 199);
+    text-align: center;
+    font-size: 5vw;
+}
+
+body{
+    background-color: rgb(32, 2, 41);
+}
+
+
+.big_top{
+    position: relative;
+    border: 2px solid rgb(153, 153, 153);
+    height: 20vw;
+    width: 100%;
+    text-align: center;
+    top: -5%;
+    left: -0.25%;
+    font-size: 1.9vw;
+}    
+
+.mid{
+    border: 2px solid rgb(153, 153, 153);
+    height: 100vw;
+    width: 100%;
+    top: -2%;
+    left: -0.25%;
+    font-size: 1.9vw;   
+    color: rgb(191, 164, 199); 
+    
+}
+
+.title{
+    text-align: center;
+}
+
+.qu{
+    margin-top: -1vh;
+}
+
+.question{
+    display: flex;
+    justify-content: space-around; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.my_links{
+    position: relative;
+    border: 2px solid rgb(153, 153, 153);
+    height: 2.5vw;
+    width: 100%;
+    text-align: center;
+    top: 2%;
+    left: -0.25%;
+    font-size: 1.9vw; 
+}
